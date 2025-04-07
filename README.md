@@ -1,5 +1,8 @@
 # FourSilos_RedesignedWebsite
 
+  >[!NOTE]
+  > Click the <strong>Icon!</strong> You can access to the prototype I created for this project. &nbsp;&nbsp;&nbsp; <a href="https://www.figma.com/proto/8rrByrwtD0JdkdIihfa4YS/Untitled?t=mApBAI0HlHLExGVU-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=4-2&starting-point-node-id=4%3A2"><img src="https://skillicons.dev/icons?i=figma" height="45px"/></a>
+
 ## Background
 > Four Silos Brewery is a local business in Gilbert offering a wide variety of beers and IPAs, and you can savor them with tasty side dishes and meals.
 > They regularly host events, positioning themselves as a gathering space for the local community.
