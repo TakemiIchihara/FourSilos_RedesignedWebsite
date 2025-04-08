@@ -23,3 +23,17 @@
 ## Result
 > The redesigned mockup improves clarity and user experience by reorganizing content in a clear hierarchy and simplifying navigation,
 > potentially reducing the customer’s confusion and frustration while engaging with the website.
+<br />
+<br />
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/15de4e67-523c-47b5-8ec9-2cc04af9c46f" width="65%"/>
+</div>
+<br />
+<br />
+<br />
+
+<!-- footer -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=24&pause=1500&duration=2500&color=DCB818&background=293051&center=true&vCenter=true&lines=Thank+You+!;Bye+〜+👋" width="95%" height="45px"/>
+</div>
