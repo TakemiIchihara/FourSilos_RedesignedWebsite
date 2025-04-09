@@ -27,13 +27,16 @@
 <br />
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/15de4e67-523c-47b5-8ec9-2cc04af9c46f" width="65%"/>
+
+  <img src="https://github.com/user-attachments/assets/123ade95-f76f-453a-83c7-f8726cffc82c" width="70%"/>
 </div>
-<br />
 <br />
 <br />
 
 <!-- footer -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=24&pause=1500&duration=2500&color=DCB818&background=293051&center=true&vCenter=true&lines=Thank+You+!;Bye+〜+👋" width="95%" height="45px"/>
+<div align="center" width="95%">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=293051&text=Takemi%20Ichihara&fontSize=16&fontColor=FFF5E6&fontAlignY=85" />
 </div>
+
+
+<!-- Thank+You+!;Bye+〜+👋" -->
